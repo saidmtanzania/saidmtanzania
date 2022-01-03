@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="saidmtanzania | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+[website]: https://saidmtanzania.com
+[twitter]: https://twitter.com/saidmtanzania
+[youtube]: https://youtube.com/saidmtanzania
+[instagram]: https://instagram.com/saidmtanzania
+[linkedin]: https://linkedin.com/in/saidmtanzania
