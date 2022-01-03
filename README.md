@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Said
+### Hi there 👋, I'm saidmtanzania
 <!--
 **saidmtanzania/saidmtanzania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 ### I'm Software enginer
 - 🔭 I’m currently working on ...
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
