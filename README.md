@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="saidmtanzania | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+--
 [website]: https://saidmtanzania.com
 [twitter]: https://twitter.com/saidmtanzania
 [youtube]: https://youtube.com/saidmtanzania
