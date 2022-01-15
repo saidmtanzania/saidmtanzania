@@ -3,21 +3,26 @@
 **saidmtanzania/saidmtanzania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 ### I'm Software enginer
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Something cool...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me anything: https://github.com/saidmtanzania/Ask/issues
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The first computer virus was created by a 15-year-old in 1982...
 -->
+- 🔭 I’m currently working on Something cool
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: saidmtanzania@gmail.com
-- ⚡ Do you know: The first computer virus was created by a 15-year-old in 1982
+- 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
+- 📫 How to reach me: [mail](saidmtanzania@gmail.com)
+- ⚡ Did you know: The first computer virus was created by a 15-year-old in 1982
 
+### Language:
+[<img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>]
+### Tools
 ### Connect with me:
 
 [<img align="left" alt="saidmtanzania.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
