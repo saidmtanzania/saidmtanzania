@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Did you know: The first computer virus was created by a 15-year-old in 1982
 
 ### Language:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html5]
+[<img alt="html5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html5]
 [<img alt="css3" width ="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>][css3]
+[<img alt="javascript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][Javascript]
 ### Tools
 ### Connect with me:
 
@@ -39,3 +40,4 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/saidmtanzania
 [css3]: https://www.w3schools.com/css/css_intro.asp
 [html5]: https://www.w3schools.com/html/html_intro.asp
+[javascript]: https://www.w3schools.com/js/js_intro.asp
