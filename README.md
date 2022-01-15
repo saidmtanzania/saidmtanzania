@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
-- 📫 How to reach me: [mail](saidmtanzania@gmail.com)
+- 📫 How to reach me: [here](saidmtanzania@gmail.com)
 - ⚡ Did you know: The first computer virus was created by a 15-year-old in 1982
 
 ### Language:
