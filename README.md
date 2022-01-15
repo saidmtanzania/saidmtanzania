@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The first computer virus was created by a 15-year-old in 1982...
 -->
-- 🔭 I’m currently working on Something cool
 - 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Something cool
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
