@@ -1,4 +1,4 @@
-### Hi there 👋, I'm saied
+### Hi there 👋, I'm said H.
 <!--
 **saidmtanzania/saidmtanzania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -10,11 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The first computer virus was created by a 15-year-old in 1982...
 -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: The first computer virus was created by a 15-year-old in 1982
+- 📫 How to reach me: saidmtanzania@gmail.com
 
 ### Connect with me:
 
