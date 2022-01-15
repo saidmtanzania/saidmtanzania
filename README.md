@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img alt="@saidmtanzania" align="left" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />][<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" />] 
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />][<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" /> 
 
 
 
