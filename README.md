@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="saidmtanzania.com" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@saidmtanzania" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img alt="@saidmtanzania" align="left" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://www.flaticon.com/free-icons/instagram" />][instagram]
+[<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" /></a> |
