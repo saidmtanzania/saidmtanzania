@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img alt="@saidmtanzania" align="left" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />][<img align="left" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" /> 
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />][stats][<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" />][readme] 
 
 
 
@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 [css3]: https://www.w3schools.com/css/css_intro.asp
 [html5]: https://www.w3schools.com/html/html_intro.asp
 [javascript]: https://www.w3schools.com/js/js_intro.asp
+[stats] : "#"
+[readme]: "#"
