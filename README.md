@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="saidmtanzania github stats" />
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" />
 
 
 
