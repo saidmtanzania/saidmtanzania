@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The first computer virus was created by a 15-year-old in 1982...
 -->
-- 🔭 I’m currently working on Something cool
 - 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Something cool
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="@saidmtanzania" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img alt="@saidmtanzania" align="left" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="saidmtanzania | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=saidmtanzania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="saidmtanzania github stats" />
 <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmtanzania&layout=compact&theme=buefy&hide_border=true" />
