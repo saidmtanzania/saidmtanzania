@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
-- 📫 How to reach me: [here](saidmtanzania@gmail.com)
+- 📫 How to reach me: [here](mailto:saidmtanzania@gmail.com)
 - ⚡ Did you know: _"The first computer virus was created by a 15-year-old in 1982"_
 - ⚡ Fun fact: _why cant elephant use computer?_
                 _Because they're scared of the mouse😄_
