@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
 - 📫 How to reach me: [here](saidmtanzania@gmail.com)
-- ⚡ Did you know: _The first computer virus was created by a 15-year-old in 1982_
+- ⚡ Did you know: _"The first computer virus was created by a 15-year-old in 1982"_
 
 ### Language and Tools:
 [<img alt="html5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html5]
