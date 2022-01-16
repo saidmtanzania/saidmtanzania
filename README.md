@@ -14,7 +14,7 @@ Here are some ideas to get you started:
                 _Because they're scared of the mouse😄_
 -->
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I’m currently working on Something cool
+- 🔭 I’m working on self improvement.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
