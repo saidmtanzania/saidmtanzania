@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
 - 📫 How to reach me: [here](mailto:saidmtanzania@gmail.com)
-- ⚡ Did you know: _"The first computer virus was created by a 15-year-old in 1982"_
+- ⚡ Did you know that: _"It’s all 0’s and 1’s"_
 - ⚡ Fun fact: _What happen when frog's car breaks?_
                 _it gets toad😄_
 
