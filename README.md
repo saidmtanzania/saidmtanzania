@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me anything: https://github.com/saidmtanzania/Ask/issues
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: _why cant elephant use computer?_
-                _Because they're scared of the mouse😄_
+- ⚡ Fun fact: _What happen when frog's car breaks?_
+                _it gets toad😄_
 -->
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m working on self improvement.
