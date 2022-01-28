@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: _What happen when frog's car breaks?_
                 _it gets toad😄_
 -->
-- 🔭 I’m working on self improvement.
+- 🔭 I’m currently working on Something cool.
+- 🌱 I’m currently learning None
 - 👯 I’m looking to collaborate with other content creators
+- 🤔 I’m looking for help with NodeJS 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
 - 📫 How to reach me: [here](mailto:saidmtanzania@gmail.com)
