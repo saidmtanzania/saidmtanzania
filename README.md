@@ -14,10 +14,7 @@ Here are some ideas to get you started:
                 _it gets toad😄_
 -->
 - 🔭 I’m currently working on Something cool.
-- 🌱 I’m currently learning None
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with NodeJS 
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
 - 📫 How to reach me: [here](mailto:saidmtanzania@gmail.com)
 - ⚡ Did you know that: _"It’s all 0’s and 1’s"_
