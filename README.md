@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://saidmtanzania.com
+[website]: https://saidmtanzania.me
 [twitter]: https://twitter.com/saidmtanzania
 [instagram]: https://instagram.com/saidmtanzania
 [linkedin]: https://linkedin.com/in/saidmtanzania
