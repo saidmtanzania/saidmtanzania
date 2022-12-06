@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-[website]:https://saidmtanzania.me:[target="_blank"]
-[twitter]:https://twitter.com/saidmtanzania:[target="_blank"]
-[instagram]:https://instagram.com/saidmtanzania:[target="_blank"]
-[linkedin]:https://linkedin.com/in/saidmtanzania:[target="_blank"]
+[website]:https://saidmtanzania.me
+[twitter]:https://twitter.com/saidmtanzania
+[instagram]:https://instagram.com/saidmtanzania
+[linkedin]:https://linkedin.com/in/saidmtanzania
