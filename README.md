@@ -1,4 +1,4 @@
-### Hi there 👋, I'm said H.
+### Hi there 👋, I'm Saidi H.
 <!--
 **saidmtanzania/saidmtanzania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
