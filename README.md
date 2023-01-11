@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me anything: [here](https://github.com/saidmtanzania/Ask/issues)
 - 📫 How to reach me: [here](mailto:saidmtanzania@gmail.com)
-- ⚡ Did you know that: _"It’s all 0’s and 1’s"_
+- ⚡ Fun fact: _What happen when frog's car breaks?_
+                _it gets toad😄_
 <!--
+- ⚡ Did you know that: _"It’s all 0’s and 1’s"_
 ### Language and Tools:
 [<img alt="html5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html5]
 [<img alt="css3" width ="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>][css3]
